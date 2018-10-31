@@ -9,7 +9,7 @@
         <Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
-        <Button Text="im the button created by jimmy" />
+        <Button Text="to next page" />
         <DatePicker/>
 
         <Image></Image>
